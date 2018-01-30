@@ -7,14 +7,7 @@
 #include "usart2.h"			 	 
 #include "string.h"	 
 #include "key.h"
-//ALIENTEKminiSTM32开发板扩展实验 
-//ATK-HC05蓝牙串口模块实验-库函数版本  
-//技术支持：www.openedv.com
-//广州市星翼电子科技有限公司 
-//ALIENTEK战舰STM32开发板实验13
-//TFTLCD显示实验  
-//技术支持：www.openedv.com
-//广州市星翼电子科技有限公司 
+
  	
 	
 	//显示ATK-HC05模块的主从状态
