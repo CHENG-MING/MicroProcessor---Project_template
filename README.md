@@ -9,7 +9,7 @@ STM32F103RC - a sort of microprocessor based on Computing Architecture of ARM Co
 ![Alt text](https://github.com/CHENG-MING/MicroProcessor---project_template/raw/master/images/Model.jpg)
 
 
-### Supporting function list:
+### Supported function list:
  - **ADC** - analog to digital converter
  - **DAC**- digital to analog converter
  - **EXIT**- external interrupt
